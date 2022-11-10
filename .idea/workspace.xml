@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6aba7b1-0249-4589-a555-3652e04621be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bl/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bl/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RFP_219_day03_line_comparision/com/bl/LineComparison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bl/LineComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bl/LineComparisonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RFP_219_day03_line_comparision/com/bl/LineComparisonMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bl/LineComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bl/LineComparison.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/sudha/IdeaProjects/RFP_219_day03_line_comparision&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LineComparisonMain">
+  <component name="RunManager" selected="Application.com.bl.LineComparison">
     <configuration name="LineComparisonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bl.LineComparisonMain" />
       <module name="RFP_219_day03_line_comparision" />
@@ -81,8 +79,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LineComparisonMain" />
         <item itemvalue="Application.com.bl.LineComparison" />
+        <item itemvalue="Application.LineComparisonMain" />
         <item itemvalue="Application.com.bl.Main" />
       </list>
     </recent_temporary>
