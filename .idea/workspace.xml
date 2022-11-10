@@ -5,6 +5,7 @@
       <change afterPath="$PROJECT_DIR$/src/com/bl/Line.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/bl/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RFP_219_day03_line_comparision/com/bl/LineComparison.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bl/LineComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bl/LineComparisonMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

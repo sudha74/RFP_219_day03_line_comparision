@@ -2,7 +2,7 @@ package com.bl;
 
 import java.util.Scanner;
 
-public class LineComparisonMain {
+public class LineComparison {
     public static void main(String[] args) {
         double lengthOfLine1, lengthOfLine2;
 
